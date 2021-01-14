@@ -1,1 +1,1 @@
-Set of implementation files to detect fake news.
+Set of implementation files to detect.
