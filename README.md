@@ -2,7 +2,7 @@
 
 ## Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media
 
-**Author:** Omar Shari, Eftekhar Hossain and Mohammed Moshiul Hoque
+**Author:** Omar Sharif, Eftekhar Hossain and Mohammed Moshiul Hoque
 
 **Venue:** Shared task description paper of CONSTRAINT workshop collocated with AAAI-2021 . [CONSTRAINT@AAAI 2021](https://constraint-shared-task-2021.github.io/)
 
